@@ -18,6 +18,11 @@ suma = num1 + num2
 print(f"La suma de {num1} más {num2} es {suma}")
 ```
 
+### Listas
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## Referencias
 [Documentación de Github] (https://docs.github.com/es)
 
