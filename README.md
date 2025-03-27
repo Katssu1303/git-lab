@@ -30,3 +30,5 @@ print(f"La suma de {num1} más {num2} es {suma}")
 
 [Documentación de Git] (https://git-scm.com/doc)
 ![imagen](https://cdn-icons-png.flaticon.com/512/10338/10338034.png)
+
+![imagen2](https://cdn-icons-png.flaticon.com/512/10338/10338034.png)
