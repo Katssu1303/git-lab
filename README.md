@@ -9,6 +9,7 @@ Laboratorio de prácticas de Git
 ### Imágenes
 
 ![Primera imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+![Segunda imagen](https://cdn-icons-png.flaticon.com/512/10338/10338034.png)
 
 ### Ejemplos de código
 ```python 
@@ -29,6 +30,5 @@ print(f"La suma de {num1} más {num2} es {suma}")
 [Glosario de Github] (https://docs.github.com/en/get-started/learning-about-github/github-glossary)
 
 [Documentación de Git] (https://git-scm.com/doc)
-![imagen](https://cdn-icons-png.flaticon.com/512/10338/10338034.png)
 
-![imagen2](https://cdn-icons-png.flaticon.com/512/10338/10338034.png)
+
