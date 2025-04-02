@@ -1,0 +1,23 @@
+{
+  "name": "git-lab",
+  "version": "1.0.0",
+  "description": "Katia Álvarez",
+  "main": "funciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katssu1303/git-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Katssu1303/git-lab/issues"
+  },
+  "homepage": "https://github.com/Katssu1303/git-lab#readme",
+  "devDependencies": {
+    "mocha": "^11.1.0"
+  }
+}
