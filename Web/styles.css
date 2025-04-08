@@ -1,0 +1,50 @@
+*{
+    /* este estilo se le aplica a todos los elementos de la pagina */
+    font-family:
+    Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    margin: 0;
+}
+
+h1{
+    color: rgb(16,67,305);
+}
+
+div{
+    border: 2px solid black;
+    /* grueso, estilo y color de la linea */
+    margin: 10px;
+    padding: 10px;
+}
+
+.container{
+    padding: 10px;
+    margin: 30px;
+    color: black;
+}
+
+#hello_id{
+    padding: 10px;
+}
+
+div p {
+    margin: 10px;
+}
+
+#segundo_h1{
+    margin: 40px 10px 30px 5px;
+    color: green;
+    font-size: 50px;
+}
+
+table, th, td {
+    border: 1px solid black; 
+}
+
+/* th{
+    border: 1px solid black;
+}
+
+td{
+    border: 1px solid black;
+} */
